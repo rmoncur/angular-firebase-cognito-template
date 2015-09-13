@@ -1,0 +1,29 @@
+{
+  "name": "bowertest",
+  "version": "0.0.1",
+  "authors": [
+    "Rob Moncur <robmonc@gmail.com>"
+  ],
+  "description": "My Bower Test App",
+  "main": "index.html",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.x",
+    "aws-sdk-js": "~2.1.46",
+    "bootstrap": "~3.3.5",
+	"angular": "1.4.x",
+	"jquery": "2.1.4",
+	"firebase":"2.2.9"
+  }
+}

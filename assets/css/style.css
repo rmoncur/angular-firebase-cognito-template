@@ -1,0 +1,4 @@
+/* CSS Document */
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+#loginbox, .centerbox{ max-width:320px; min-width:240px; margin:20px auto; border:1px solid black; border-radius:4px; padding:10px;}
+#my-signin2 div{ margin:0 auto;}
